@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "tasmania_cities.1",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [147.29100045, -42.85100182]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "CITY_NAME": "Hobart",
+        "ADMIN_NAME": "Tasmania",
+        "CNTRY_NAME": "Australia",
+        "STATUS": "Provincial capital",
+        "POP_CLASS": "100,000 to 250,000"
+      }
+    }
+  ],
+  "totalFeatures": 1,
+  "numberMatched": 1,
+  "numberReturned": 1,
+  "timeStamp": "2024-10-05T12:46:41.426Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  }
+}

@@ -16,8 +16,13 @@
   "dependencies": {
     "@vitejs/plugin-react": "^4.3.2",
     "ol": "latest",
+    "ol-layerswitcher": "^4.1.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.26.2"
-  }
+  },
+  "description": "This example demonstrates how the `ol` package can be used with [Vite](https://vitejs.dev/).",
+  "main": "vite.config.js",
+  "author": "",
+  "license": "ISC"
 }
