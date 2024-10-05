@@ -3,21 +3,564 @@
   "features": [
     {
       "type": "Feature",
-      "id": "tasmania_cities.1",
+      "id": "1",
       "geometry": {
         "type": "MultiPoint",
         "coordinates": [
-          [147.29100045, -42.85100182]
+          [19.819025, 41.327953]
         ]
       },
       "geometry_name": "the_geom",
-      "properties": {
-        "CITY_NAME": "Hobart",
-        "ADMIN_NAME": "Tasmania",
-        "CNTRY_NAME": "Australia",
-        "STATUS": "Provincial capital",
-        "POP_CLASS": "100,000 to 250,000"
-      }
+      "Country" : "Albania",
+	  "2018": "914.6",
+      "2019": "785.7",
+      "2020": "767.1"
+    },
+	{
+      "type": "Feature",
+      "id": "tasmania_cities.2",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [16.3713, 48.2081]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "Country" : "Austria",
+	  "2018": "690.6",
+      "2019": "698.7",
+      "2020": "948.6"
+		
+	},
+    {
+      "type": "Feature",
+      "id": "3",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [4.3572, 50.8476]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "Country" : "Belgium",
+	  "2018": "511.8",
+      "2019": "518.6",
+      "2020": "833.3"
+		
+	},
+    {
+      "type": "Feature",
+      "id": "4",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [23.3219, 42.6977]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "Country" : "Bulgaria",
+	  "2018": "756",
+      "2019": "",
+      "2020": "558.3"
+		
+	},
+    {
+      "type": "Feature",
+      "id": "5",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [15.966568,45.815399]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "Country" : "Croatia",
+	  "2018": "809.5",
+      "2019": "798.4",
+      "2020": "761.1"
+		
+	},
+    {
+      "type": "Feature",
+      "id": "6",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [33.4299, 35.1264]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "Country" : "Cyprus",
+	  "2018": "",
+      "2019": "1161.7",
+      "2020": "1101.8"
+		
+	},
+    {
+      "type": "Feature",
+      "id": "7",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [14.4378, 50.0755]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "Country" : "Czechia",
+	  "2018": "623",
+      "2019": "826.8",
+      "2020": "902.9"
+		
+	},
+    {
+      "type": "Feature",
+      "id": "8",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [12.5683, 55.6761]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "Country" : "Denmark",
+	  "2018": "922.8",
+      "2019": "951.9",
+      "2020": "920.3"
+		
+	},
+    {
+      "type": "Feature",
+      "id": "9",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [24.7536, 59.437]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "Country" : "Estonia",
+	  "2018": "582.6",
+      "2019": "526.2",
+      "2020": "525.1"
+		
+	},
+    {
+      "type": "Feature",
+      "id": "10",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [24.9384, 60.1699]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "Country" : "Finland",
+	  "2018": "655",
+      "2019": "670.8",
+      "2020": "713.9"
+		
+	},
+    {
+      "type": "Feature",
+      "id": "11",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [2.2137, 46.2276]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "Country" : "France",
+	  "2018": "745.9",
+      "2019": "775.4",
+      "2020": "775.3"
+		
+	},
+    {
+      "type": "Feature",
+      "id": "12",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [33.4299, 35.1264]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "Country" : "Germany",
+	  "2018": "710.7",
+      "2019": "713.9",
+      "2020": "746.2"
+		
+	},
+    {
+      "type": "Feature",
+      "id": "13",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [23.7275, 37.9838]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "Country" : "Greece",
+	  "2018": "1017.9",
+      "2019": "1031",
+      "2020": ""
+		
+	},
+    {
+      "type": "Feature",
+      "id": "14",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [19.0402, 47.4979]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "Country" : "Hungary",
+	  "2018": "670.5",
+      "2019": "683.2",
+      "2020": "719"
+		
+	},
+    {
+      "type": "Feature",
+      "id": "15",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-21.9408, 64.147]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "Country" : "Iceland",
+	  "2018": "",
+      "2019": "",
+      "2020": "1000.3"
+		
+	},
+    {
+      "type": "Feature",
+      "id": "16",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-6.2603, 53.3498]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "Country" : "Ireland",
+	  "2018": "780.8",
+      "2019": "821.4",
+      "2020": "846.6"
+		
+	},
+    {
+      "type": "Feature",
+      "id": "17",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [12.4822, 341.8967]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "Country" : "Italy",
+	  "2018": "696.3",
+      "2019": "699.9",
+      "2020": "675.9"
+		
+	},
+    {
+      "type": "Feature",
+      "id": "18",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [24.1056, 56.9677]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "Country" : "Latvia",
+	  "2018": "733.3",
+      "2019": "792.8",
+      "2020": "826.3"
+		
+	},
+    {
+      "type": "Feature",
+      "id": "19",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [25.2797, 54.6872]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "Country" : "Lithuania",
+	  "2018": "667.7",
+      "2019": "660.1",
+      "2020": "649.4"
+		
+	},
+    {  "type": "Feature",
+  "id": "21",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [6.1296, 49.8153]  
+    ]
+  },
+  "geometry_name": "the_geom",
+  "Country": "Luxembourg",
+  "2018": "927.8",
+  "2019": "925.9",
+  "2020": "921"
+},
+{
+  "type": "Feature",
+  "id": "22",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [21.4254, 41.9981]  
+    ]
+  },
+  "geometry_name": "the_geom",
+  "Country": "North Macedonia",
+  "2018": "702",
+  "2019": "815.2",
+  "2020": "813.9"
+},
+{
+  "type": "Feature",
+  "id": "23",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [14.5141, 35.8992]  
+    ]
+  },
+  "geometry_name": "the_geom",
+  "Country": "Malta",
+  "2018": "1306",
+  "2019": "1433.2",
+  "2020": "1267.5"
+},
+{
+  "type": "Feature",
+  "id": "24",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [19.2594, 42.4304]  
+    ]
+  },
+  "geometry_name": "the_geom",
+  "Country": "Montenegro",
+  "2018": "1086.8",
+  "2019": "1121.6",
+  "2020": "1010.2"
+},
+{
+  "type": "Feature",
+  "id": "25",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [4.9041, 52.3676]  
+    ]
+  },
+  "geometry_name": "the_geom",
+  "Country": "Netherlands",
+  "2018": "618.1",
+  "2019": "615",
+  "2020": "640.1"
+},
+{
+  "type": "Feature",
+  "id": "26",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [10.7522, 59.9139] 
+    ]
+  },
+  "geometry_name": "the_geom",
+  "Country": "Norway",
+  "2018": "857",
+  "2019": "899.1",
+  "2020": "721.2"
+},
+{
+  "type": "Feature",
+  "id": "27",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [21.0122, 52.2297]  
+    ]
+  },
+  "geometry_name": "the_geom",
+  "Country": "Poland",
+  "2018": "554.3",
+  "2019": "581",
+  "2020": "584"
+},
+{
+  "type": "Feature",
+  "id": "28",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [-9.1393, 38.7223]  
+    ]
+  },
+  "geometry_name": "the_geom",
+  "Country": "Portugal",
+  "2018": "849.8",
+  "2019": "852.4",
+  "2020": "910"
+},
+{
+  "type": "Feature",
+  "id": "29",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [26.1025, 44.4268]  
+    ]
+  },
+  "geometry_name": "the_geom",
+  "Country": "Romania",
+  "2018": "560.9",
+  "2019": "585.1",
+  "2020": "594.7"
+},
+{
+  "type": "Feature",
+  "id": "30",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [20.4612, 44.8125]  
+    ]
+  },
+  "geometry_name": "the_geom",
+  "Country": "Serbia",
+  "2018": "685.8",
+  "2019": "338.3",
+  "2020": "442.5"
+},
+{
+  "type": "Feature",
+  "id": "31",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [17.1077, 48.1486]  
+    ]
+  },
+  "geometry_name": "the_geom",
+  "Country": "Slovakia",
+  "2018": "742.7",
+  "2019": "739.7",
+  "2020": "793.5"
+},
+{
+  "type": "Feature",
+  "id": "32",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [14.5058, 46.0569]  
+    ]
+  },
+  "geometry_name": "the_geom",
+  "Country": "Slovenia",
+  "2018": "611.9",
+  "2019": "636.8",
+  "2020": "599.3"
+},
+    {
+      "type": "Feature",
+      "id": "33",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-3.7033, 40.4167]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "Country" : "Spain",
+	  "2018": "815.9",
+      "2019": "511.4",
+      "2020": "782.9"
+    },
+
+    {
+      "type": "Feature",
+      "id": "34",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [18.0686, 59.3293]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "Country" : "Sweden",
+	  "2018": "537.1",
+      "2019": "552.1",
+      "2020": "531.9"
+    },
+
+    {
+      "type": "Feature",
+      "id": "35",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [7.4474, 46.948]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "Country" : "Switzerland",
+	  "2018": "806.1",
+      "2019": "809",
+      "2020": "806"
+    },
+
+    {
+      "type": "Feature",
+      "id": "35",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [32.8597, 39.9334]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "Country" : "Turkiye",
+	  "2018": "864.4",
+      "2019": "864.4",
+      "2020": "945.4"
+    },
+
+    {
+      "type": "Feature",
+      "id": "35",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-0.1276, 51.5072]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "Country" : "United Kingdom",
+	  "2018": "630",
+      "2019": "601.7",
+      "2020": "547.2"
     }
   ],
   "totalFeatures": 1,
