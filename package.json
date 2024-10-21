@@ -14,7 +14,7 @@
     "vite": "^5.4.8"
   },
   "dependencies": {
-    "@vitejs/plugin-react": "^4.3.2",
+    "@vitejs/plugin-react": "^4.3.3",
     "ol": "latest",
     "ol-geocoder": "^4.3.3",
     "ol-layerswitcher": "^4.1.2",
